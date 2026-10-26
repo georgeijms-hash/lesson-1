@@ -1,0 +1,5 @@
+print("MY DALIY ROUTINE")
+print("I wake up at 6")
+print("I go to school at 7")
+print("I come back at 3 ")
+print("I sleep at 10")
