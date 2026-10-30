@@ -12,8 +12,7 @@ print("earning",earning)
 bag=total//25
 leftover=total%25
 print("bag,leftover",bag,leftover)
-lastyr=500
-print("better than last year",total>lastyr)
+ year",totaprintastyr=500("better than lastl>lastyr)
 print("equal to lastyear",total==lastyr)
 print("atleast last year",total>=lastyr)
 total+=30
