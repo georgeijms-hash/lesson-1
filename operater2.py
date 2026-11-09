@@ -1,0 +1,5 @@
+print("=== Smart School Day Planner ===")
+print("Answer 3 quick questions and I will plan your day!\n")
+day = input("What day is it? (Monday to Sunday): ").strip().capitalize()
+weather = input("What is the weather? (sunny / rainy / cloudy): ").strip().lower()
+homework = input("Is your homework done? (yes / no): ").strip().lower()

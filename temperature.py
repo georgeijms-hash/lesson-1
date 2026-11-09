@@ -1,3 +1,4 @@
+
 temperature=int(input("enter temperature in celsious"))
 if temperature<20:
     outfit="jacket"
@@ -13,7 +14,8 @@ if puddle=="yes":
 else:
     shoes="slippers"
     print("there is no puddle wear",shoes) 
-     
+    
+
 
 
 
