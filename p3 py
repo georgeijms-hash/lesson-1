@@ -3,3 +3,4 @@ name=input("enter club name")
 club_no=7
 point=9.5
 is_active=true
+print("bye")
