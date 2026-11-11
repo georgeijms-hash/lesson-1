@@ -1,0 +1,11 @@
+print("hi")
+homeworktime=45  
+if(homeworktime>60):
+    print("that is a long homework session")
+    print("start home work now")
+else:
+    print("that is a short homework session")
+    print("finish homework quickly")
+free_time = "yes"
+if(free_time == "yes"):
+    print("Remember to pick a hobby!")
