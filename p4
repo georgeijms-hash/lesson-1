@@ -9,3 +9,4 @@ max_point=100
 lastyr=50
 print("equal to lastyear",total==lastyr)
 print("atleast last year",total>=lastyr)
+print("byee")
